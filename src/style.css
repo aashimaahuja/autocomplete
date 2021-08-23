@@ -1,0 +1,17 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.results__list {
+  text-decoration: none;
+  border: 1px solid;
+  list-style: none;
+}
+.more_results {
+  border: 1px solid blue;
+}
+.results__list{
+  max-height: 200px;
+  width:200px;
+}
